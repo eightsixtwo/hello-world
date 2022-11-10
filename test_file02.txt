@@ -1,1 +1,2 @@
 Creating a new test file in remote repo
+Added new line on local machine
